@@ -1,4 +1,5 @@
 //google.com/%2f..
+//example.com/..;/css
 //www.whitelisteddomain.tld@google.com/%2f..
 ///google.com/%2f..
 ///www.whitelisteddomain.tld@google.com/%2f..
